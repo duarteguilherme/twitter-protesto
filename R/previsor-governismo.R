@@ -21,7 +21,3 @@ write.csv(result, 'textos_twitter.csv', row.names=FALSE)
 ## Dividir em teste e treino
 
 ## Criar o classificador
-
-exemplo_grid
-
-teste <- mongo.find.all(db, "twitter.dilma_16_ago", list('timestamp_ms' = list('$lte' = '1439240400000')))
