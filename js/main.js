@@ -1,4 +1,6 @@
-// dados = $.getJSON("wordclouds-ate-agora.json", function(d) { console.log("success"); } ); // Load 
+// 
+var dados_clouds = { } ;
+$.getJSON("wordclouds-ate-agora.json", function(d) { dados_clouds=d; } ); // Load 
 
 //
 
