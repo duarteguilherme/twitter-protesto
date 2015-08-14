@@ -1,4 +1,9 @@
-      
+// dados = $.getJSON("wordclouds-ate-agora.json", function(d) { console.log("success"); } ); // Load 
+
+//
+
+
+
       
 //Simple animated example of d3-cloud - https://github.com/jasondavies/d3-cloud
 //Based on https://github.com/jasondavies/d3-cloud/blob/master/examples/simple.html
